@@ -2,7 +2,7 @@
 
 ### JS-moduulit 1 ja 2
 
-[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa]
+https://users.metropolia.fi/~durimb/JS_Mod_1_&_2/
 
 Tehdyt tehtävät:
 
