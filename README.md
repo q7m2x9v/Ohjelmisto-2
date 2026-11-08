@@ -2,7 +2,7 @@
 
 ### JS-moduulit 1 ja 2
 
-[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa]
+https://users.metropolia.fi/~durimb/JS_Mod_1_&_2/
 
 Tehdyt tehtävät:
 
@@ -15,3 +15,17 @@ Tehdyt tehtävät:
 
 **Yhteensä 11p**
 
+
+### JS-moduuli 3
+
+https://users.metropolia.fi/~durimb/JS_Mod_3/
+
+Tehdyt tehtävät: 
+
+- Tehtävä 1: 2 p
+- Tehtävä 2: 2 p
+- Tehtävä 3: 2 p
+- Tehtävä 4: 2 p
+- Tehtävä 8: 2 p 
+
+**Yhteensä 10p**
